@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523002734 source:d:\diver\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+

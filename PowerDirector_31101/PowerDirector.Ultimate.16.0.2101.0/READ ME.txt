@@ -1,0 +1,21 @@
+- Install from Setup Launcher.
+
+- Setup is activated, so it will automatically import the serial info into PowerDirector.
+
+- Merge the Reg Patch entry after installation.
+
+- If codec activation is required, follow the below steps:
+
+- Open keygen and change the serial part with the following:
+
+VN25V-PGFCF-LTMFY-KGAXM-RCZFY-54B3H
+
+- Don't close keygen.
+
+- Open PowerDirectory, import MKV or MP4 media file. 
+
+- Setup codecs, choose to do manual activation.
+
+- Copy the full URL in manual activation window into keygen URL part.
+
+- Generate your activation code from keygen and paste it back to manual activation dialog.
